@@ -1,0 +1,7 @@
+{
+  "name": "quant_groups",
+  "version": "1",
+  "description": "分组量化参数、激活范围和输入样例。",
+  "input_file": "data/input.json",
+  "implementation": "由项目使用者根据业务契约提供"
+}

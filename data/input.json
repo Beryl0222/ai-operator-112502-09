@@ -1,0 +1,40 @@
+{
+  "weight_version": "w9",
+  "group_size": 2,
+  "groups": [
+    {
+      "scale": 0.25,
+      "zero_point": 1,
+      "values": [
+        0,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "scale": 0.5,
+      "zero_point": 0,
+      "values": [
+        1,
+        2,
+        0,
+        3
+      ]
+    }
+  ],
+  "activation_range": [
+    -1.0,
+    1.0
+  ],
+  "input": [
+    [
+      0.1,
+      -0.2
+    ],
+    [
+      0.4,
+      0.7
+    ]
+  ]
+}
